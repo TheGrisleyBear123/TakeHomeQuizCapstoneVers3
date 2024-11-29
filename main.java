@@ -1,3 +1,4 @@
+import java.util.Scanner; 
 public class main{
 	@FunctionalInterface
 	interface Calculate{
