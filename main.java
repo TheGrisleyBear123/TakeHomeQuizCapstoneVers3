@@ -1,3 +1,4 @@
+//This project was made by Rishi Sheth 
 public class main{
 	@FunctionalInterface
 	interface Calculate{
